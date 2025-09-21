@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Restoration",
+  "description": "A modern, minimalist web application that uses AI to restore old photos. Features include quick restore, colorization, damage removal, and face enhancement with a user-friendly before-and-after split view.",
+  "requestFramePermissions": []
+}
